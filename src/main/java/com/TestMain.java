@@ -78,7 +78,7 @@ public class TestMain {
 
     //打印菜单
     private static void printMenu(){
-        System.out.println("\n=========简易ORM测试菜单========");
+        System.out.println("\n=========测试菜单========");
         System.out.println("1.新增学生");
         System.out.println("2.新增学院");
         System.out.println("3.按ID查询学生");
